@@ -2,7 +2,7 @@
 
 A machine learning project for analyzing sentiment in Amazon product reviews, optimized to work efficiently even on older hardware and designed for straightforward use.
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository includes the code and notebooks to perform sentiment analysis on Amazon product reviews. The process—from data loading and model training to evaluation and prediction—is cleanly documented and works seamlessly in both Jupyter and Google Colab.
 
@@ -11,13 +11,13 @@ This repository includes the code and notebooks to perform sentiment analysis on
 - **Demo Video:** *(Video will be added soon)*
 - **Contact for Model/Help:** mishraji.aaryan@gmail.com
 
-## ⚠️ Limitations
+## Limitations
 
 - **99k Reviews Only:** Due to resource limitations, the provided model was trained on approximately 99,000 reviews.
 - **English Language Only:** Currently supports sentiment prediction only for reviews in English.
 - **Model Not Hosted:** The trained model file is not included in this repository due to file size constraints. Feel free to contact me at the email above for access, or generate it yourself using the notebook.
 
-## 📖 How to Use (Tutorial)
+## How to Use (Tutorial)
 
 **Step 1:** Download or clone the repository (make sure you have the `trial_run` folder).
 
@@ -41,13 +41,16 @@ A browser window will automatically open where you can test product review senti
 **Tested On:**  
 Runs smoothly on a 6-year-old CPU-only laptop with 8GB RAM. No GPU required!
 
-## 📹 Demo Video
+## Demo Video
 
 A demonstration video will be added here soon to show the application in action!
 
-*(To add your video after uploading: use `![Demo](path/to/demo_video.mp4)` or embed a YouTube link)*
 
-## 📄 License
+https://github.com/user-attachments/assets/d6cd0f62-8a8d-4e15-92e4-7442e2d1e34d
+
+
+
+## License
 
 This code is provided for educational and non-commercial use.  
 For questions, model requests, or collaborations: [mishraji.aaryan@gmail.com](mailto:mishraji.aaryan@gmail.com)
