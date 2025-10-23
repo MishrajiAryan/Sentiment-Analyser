@@ -2,20 +2,26 @@
 
 A machine learning project for analyzing sentiment in Amazon product reviews, optimized to work efficiently even on older hardware and designed for straightforward use.
 
+## Demo
+A repo is hosted on Hugging Face Spacce to demonstrate this project and can be accessed using below link. Please note due to docker contraints, uploading file is not working for now.
+
+**Demo:** [Demo for Product Sentiment Analyser](https://huggingface.co/spaces/mishrajiaryan/product_sentiment_analysis)
+### Demo Video
+
+https://github.com/user-attachments/assets/d6cd0f62-8a8d-4e15-92e4-7442e2d1e34d
+
 ## Project Overview
 
 This repository includes the code and notebooks to perform sentiment analysis on Amazon product reviews. The process—from data loading and model training to evaluation and prediction—is cleanly documented and works seamlessly in both Jupyter and Google Colab.
 
 - **Colab Notebook:** [Sentiment Analysis Colab Demo](https://colab.research.google.com/drive/1hk_MxyMzxs1bBtyk7s8xYMEwex-inF-s?usp=sharing)
 - **Dataset Used:** [Amazon Product Reviews (Kaggle)](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews)
-- **Demo Video:** *(Video will be added soon)*
 - **Contact for Model/Help:** mishraji.aaryan@gmail.com
 
 ## Limitations
 
 - **99k Reviews Only:** Due to resource limitations, the provided model was trained on approximately 99,000 reviews.
 - **English Language Only:** Currently supports sentiment prediction only for reviews in English.
-- **Model Not Hosted:** The trained model file is not included in this repository due to file size constraints. Feel free to contact me at the email above for access, or generate it yourself using the notebook.
 
 ## How to Use (Tutorial)
 
@@ -40,14 +46,6 @@ A browser window will automatically open where you can test product review senti
 
 **Tested On:**  
 Runs smoothly on a 6-year-old CPU-only laptop with 8GB RAM. No GPU required!
-
-## Demo Video
-
-A demonstration video will be added here soon to show the application in action!
-
-
-https://github.com/user-attachments/assets/d6cd0f62-8a8d-4e15-92e4-7442e2d1e34d
-
 
 
 ## License
